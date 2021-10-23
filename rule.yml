@@ -1,0 +1,15 @@
+# discord
+DOMAIN-SUFFIX,discord.com,Proxy
+# guildwars 2
+DOMAIN-KEYWORD,guildwars2,Proxy
+DOMAIN-SUFFIX,account.arena.net,Proxy
+# microsoft
+DOMAIN-SUFFIX,outlook.live.com,Proxy
+# nvidia
+DOMAIN-SUFFIX,nvidia.com,Proxy
+# tiktok
+DOMAIN-SUFFIX,tiktokv.com,Proxy
+DOMAIN-SUFFIX,byteoversea.com,Proxy
+DOMAIN-SUFFIX,tik-tokapi.com,Proxy
+DOMAIN-SUFFIX,tiktok.com,Proxy
+DOMAIN-SUFFIX,tiktokcdn.com,Proxy
